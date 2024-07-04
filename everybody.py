@@ -16,3 +16,4 @@ for i in range(1,10):
     pyramid=(" "+pyramid)
     pyramid+="**  "
 
+print("good job yoni")
