@@ -1,2 +1,0 @@
-
-print("Howdy, Partner")
