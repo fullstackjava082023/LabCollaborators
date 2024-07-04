@@ -11,3 +11,7 @@ for i in range(1,10):
     print(pyramid)
     pyramid=(" "+pyramid)
     pyramid+="**  "
+
+print("no conflicts please")
+print("ilia: why none commits anything")
+print("oshri:i like this subject")
